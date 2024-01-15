@@ -1,0 +1,19 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "learning react from Namaste Reat",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onkarnirhali/Namaste-React.git"
+  },
+  "author": "Onkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onkarnirhali/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/onkarnirhali/Namaste-React#readme"
+}
