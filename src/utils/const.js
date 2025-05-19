@@ -1,0 +1,2 @@
+export const IMG_URL = "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_thumb,w_1537,h_480/f_auto/q_auto/dpr_1.0/d_uk:cuisines:chicken-3.jpg/v1/uk/restaurants/116583.jpg";
+export const LOGO_URL = "https://logowik.com/content/uploads/images/free-food-delivery8485.logowik.com.webp";
